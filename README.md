@@ -1,4 +1,4 @@
-# DSI Capstone - Predicting Season Long NFL Statistics
+# DSI Capstone - Predicting NFL Player Fantasy Points
 
 **Problem Statement**
 
