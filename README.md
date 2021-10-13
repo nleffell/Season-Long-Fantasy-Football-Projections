@@ -42,6 +42,7 @@ Only model better was the Neural Network which had an RMSE of 61.74
 I found ESPNs 2019 preseason predictions (done by their fantasy sports data scientist Mike Clay) but it was a pdf file so I had
 to enter them into an excel sheet manually but the RMSE for his predictions was 59.76, just barely better than mine.
 
+---
 **Conclusions**
 It is incredibly difficult to predict season long statistics for NFL players. There is far too much variability and noise of
 the course of 16 NFL games (now 17) to get really accurate predictions. Mike Clay is little bit more accurate than me
