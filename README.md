@@ -1,10 +1,8 @@
 # DSI Capstone - Predicting NFL Player Fantasy Points
 
-**Problem Statement**
+## Problem Statement:
 
-Company: ESPN
-
-Problem: ESPN is one of the largest providers of fantasy football services in the industry. Prior to each season they provide
+ESPN is one of the largest providers of fantasy football services in the industry. Prior to each season they provide
 their users with season long predictions for each player. They want to see if I can build a better model than their current lead
 fantasy data scientist, Mike Clay. 
 
