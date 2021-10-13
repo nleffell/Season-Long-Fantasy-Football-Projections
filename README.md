@@ -39,8 +39,6 @@ Baseline RMSE: 88.61
 Linear Regression model explained 50.4% variance in data it had not yet seen with an RMSE of 62.34
 Only model better was the Neural Network which had an RMSE of 61.74
 
----
-## Modeling:
 I found ESPNs 2019 preseason predictions (done by their fantasy sports data scientist Mike Clay) but it was a pdf file so I had
 to enter them into an excel sheet manually but the RMSE for his predictions was 59.76, just barely better than mine.
 
